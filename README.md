@@ -3,7 +3,7 @@
 Responsive personal portfolio built with HTML, Tailwind CSS, and JavaScript.
 
 ## 🔗 Live Site
-[View Here](https://your-link.netlify.app)
+https://akshitahub.github.io/Web-resume-project/
 
 ## Features
 - Dark mode toggle (with localStorage)
